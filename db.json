@@ -1,0 +1,4 @@
+{"veiculos":[
+  {"cod_veiculo":1,"cod_cliente":1,"matricula":"00-AA-00"},
+  {"cod_veiculo":2,"cod_cliente":1,"matricula":"00-AB-00"},
+  {"cod_veiculo":3,"cod_cliente":2,"matricula":"00-BB-00"} ] }
